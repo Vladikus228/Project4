@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project4</string>
+    <string name="loginText_text">TextView</string>
+    <string name="loginTextView">Login : </string>
+    <string name="firstnameTextView_text">Firstname : </string>
+    <string name="login">Login</string>
+    <string name="passwordTextView_text">Password : t</string>
+</resources>
